@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bVeuBtj2l7RKbEX9JotG1GFBBzFx0Bx4pjAb9G/M4uWZ/RWaZlEWr7dLhy3BWsFkEfAav5nKRciyMn5cmTyXoA==",
+  "dgSpecHash": "IFNV6X+AycX6Cy3CvlqAYc3hbWk53YZZ1mJRvz8w0vyDZbJEprZtBZwV8A/L//lPvAbQ3qMHJYPsftypJg5rEA==",
   "success": true,
-  "projectFilePath": "E:\\@udemy\\practice\\skinet\\API\\API.csproj",
+  "projectFilePath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vasan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

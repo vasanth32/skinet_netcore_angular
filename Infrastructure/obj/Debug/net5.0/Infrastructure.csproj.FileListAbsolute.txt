@@ -16,3 +16,21 @@ E:\@udemy\practice\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
 E:\@udemy\practice\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
 E:\@udemy\practice\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
 E:\@udemy\practice\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Core.dll
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\bin\Debug\net5.0\Core.pdb
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache

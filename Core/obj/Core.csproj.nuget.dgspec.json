@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\@udemy\\practice\\skinet\\Core\\Core.csproj": {}
+    "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj": {}
   },
   "projects": {
-    "E:\\@udemy\\practice\\skinet\\Core\\Core.csproj": {
+    "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\@udemy\\practice\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\@udemy\\practice\\skinet\\Core\\Core.csproj",
+        "projectPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\vasan\\.nuget\\packages\\",
-        "outputPath": "E:\\@udemy\\practice\\skinet\\Core\\obj\\",
+        "outputPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

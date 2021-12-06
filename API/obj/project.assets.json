@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\@udemy\\practice\\skinet\\API\\API.csproj",
+      "projectUniqueName": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\@udemy\\practice\\skinet\\API\\API.csproj",
+      "projectPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\API\\API.csproj",
       "packagesPath": "C:\\Users\\vasan\\.nuget\\packages\\",
-      "outputPath": "E:\\@udemy\\practice\\skinet\\API\\obj\\",
+      "outputPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -1324,8 +1324,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\@udemy\\practice\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\@udemy\\practice\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
