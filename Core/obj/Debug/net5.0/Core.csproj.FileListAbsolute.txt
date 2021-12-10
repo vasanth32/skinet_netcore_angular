@@ -22,3 +22,15 @@ E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\
 E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.dll
 E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Core\obj\Debug\net5.0\ref\Core.dll
 E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.pdb
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\bin\Debug\net5.0\Core.deps.json
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\bin\Debug\net5.0\Core.dll
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\bin\Debug\net5.0\ref\Core.dll
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\bin\Debug\net5.0\Core.pdb
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.dll
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\ref\Core.dll
+D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\Core\obj\Debug\net5.0\Core.pdb
