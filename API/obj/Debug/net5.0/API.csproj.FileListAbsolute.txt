@@ -207,3 +207,5 @@ D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\API\obj\Debug\net5.
 D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\API\obj\Debug\net5.0\ref\API.dll
 D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\API\obj\Debug\net5.0\API.pdb
 D:\Practice Projects\CoreNetECommerce\skinet_netcore_angular\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\API\bin\Debug\net5.0\AutoMapper.dll
+E:\@udemy\.net angular practice projects\CloneSectionTwo\skinet_netcore_angular\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

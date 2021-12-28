@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj": {}
+    "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Core\\Core.csproj": {
+    "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\VasanthR\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Core\\obj\\",
+        "projectPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\vasan\\.nuget\\packages\\",
+        "outputPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\VasanthR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -57,25 +59,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj": {
+    "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\VasanthR\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Infrastructure\\obj\\",
+        "projectPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vasan\\.nuget\\packages\\",
+        "outputPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\VasanthR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -88,8 +92,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Core\\Core.csproj": {
-                "projectPath": "D:\\Practice Projects\\CoreNetECommerce\\skinet_netcore_angular\\Core\\Core.csproj"
+              "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj": {
+                "projectPath": "E:\\@udemy\\.net angular practice projects\\CloneSectionTwo\\skinet_netcore_angular\\Core\\Core.csproj"
               }
             }
           }
@@ -138,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
